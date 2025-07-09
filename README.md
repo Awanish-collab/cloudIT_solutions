@@ -1,8 +1,14 @@
+Here's your updated `README.md` content with **virtual environment creation**, **activation**, and **deactivation** steps added:
+
+---
+
 # CloudIt Questions – Project
 
 This repository contains three key modules related to different AI and backend integrations:
 
-### Folder Structure:
+---
+
+## 📁 Folder Structure
 
 ```
 CLOudit_Questions/
@@ -27,17 +33,39 @@ CLOudit_Questions/
 
 ---
 
-## 🔧 Setup Instructions
+## 🛠️ Setup Instructions
 
-1. **Install required dependencies**
+### 1. Create Virtual Environment
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+python -m venv venv
+```
 
-2. **Environment Variables**
+### 2. Activate Virtual Environment
 
-   * Make sure to populate the `.env` files in each module with the appropriate API keys (e.g., `GROQ_API_KEY`, `OPENAI_API_KEY`).
+* **Windows:**
+
+  ```bash
+  venv\Scripts\activate
+  ```
+
+* **macOS/Linux:**
+
+  ```bash
+  source venv/bin/activate
+  ```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Deactivate Virtual Environment
+
+```bash
+deactivate
+```
 
 ---
 
@@ -68,9 +96,9 @@ python main.py
 
 ## 📌 Notes
 
-* All tasks are modularized and can be executed independently.
-* Ensure Python 3.9+ is used.
-* Use virtual environment (`venv/`) for dependency isolation.
+* All tasks are modular and independent.
+* Ensure Python 3.9+ is installed.
+* Make sure `.env` files have the correct API keys and configs.
+* For Task2 and Task3, I used Groq API instead of OpenAI.
 
 ---
-
