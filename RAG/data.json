@@ -1,0 +1,12 @@
+[
+  {"id": 1, "text": "Python is a versatile programming language used for web development, data analysis, and more."},
+  {"id": 2, "text": "Machine learning involves algorithms that learn from data to make predictions or decisions."},
+  {"id": 3, "text": "OpenAI provides powerful language models like GPT for various natural language processing tasks."},
+  {"id": 4, "text": "Climate change is a pressing global issue caused by greenhouse gas emissions."},
+  {"id": 5, "text": "The capital of France is Paris, known for its history and the Eiffel Tower."},
+  {"id": 6, "text": "Photosynthesis is the process by which green plants convert sunlight into energy."},
+  {"id": 7, "text": "The internet connects millions of devices globally, allowing for instant communication."},
+  {"id": 8, "text": "Cryptocurrencies are digital or virtual currencies secured by cryptography."},
+  {"id": 9, "text": "Data science combines statistics, programming, and domain knowledge to extract insights from data."},
+  {"id": 10, "text": "Quantum computing uses quantum bits and is expected to solve complex problems faster than classical computers."}
+]
