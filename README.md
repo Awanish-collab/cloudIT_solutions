@@ -1,5 +1,3 @@
-Here's your updated `README.md` content with **virtual environment creation**, **activation**, and **deactivation** steps added:
-
 ---
 
 # CloudIt Questions – Project
