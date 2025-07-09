@@ -1,8 +1,4 @@
----
-
 # CloudIt Questions – Project
-
-This repository contains three key modules related to different AI and backend integrations:
 
 ---
 
